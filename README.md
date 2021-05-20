@@ -5,7 +5,7 @@
 ## I'm a Freelance Programmer, Developer and Open Source Contributor!
 
 - 🔭 I’m currently competing on Kaggle.
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Cloud Computing. (Almost Everything!)
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Cloud Computing. (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
 - 🤔 I’m looking for help with Computer Vision.
 - 💬 Ask me about Data and Tea!!
