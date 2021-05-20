@@ -72,3 +72,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98)](https://github.com/pandyaved98/github-readme-stats)
