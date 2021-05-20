@@ -14,10 +14,10 @@
 
 ## You can connect with me over:
 
-[<img align="left" height="32" width="32" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
-[<img align="left" height="32" width="32" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
-[<img align="left" height="32" width="32" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="color:#181717" />](https://www.github.com/pandyaved98)
-[<img align="left" height="32" width="32" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
+[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
+[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
+[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="color:#181717" />](https://www.github.com/pandyaved98)
+[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 
 <br />
 
