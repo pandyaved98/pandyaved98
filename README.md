@@ -12,6 +12,12 @@
 - 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
 
+<br />
+
+![GitHub followers](https://img.shields.io/github/followers/pandyaved98?label=GitHub%20Followers&logo=github&logoColor=%23181717&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/pandyaved98?logo=github&logoColor=%23181717&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/MrVedPandya1?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
+
 ## You can connect with me over:
 
 [<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
