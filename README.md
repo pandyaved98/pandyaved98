@@ -82,6 +82,8 @@
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/SangeetaMishra/Algorithms-in-Python/pull/1) in [SangeetaMishra/Algorithms-in-Python](https://github.com/SangeetaMishra/Algorithms-in-Python)
+2. 🎉 Merged PR [#2](https://github.com/pandyaved98/Bash_Woman_Community_Site/pull/2) in [pandyaved98/Bash_Woman_Community_Site](https://github.com/pandyaved98/Bash_Woman_Community_Site)
 <!--END_SECTION:activity-->
 
 <br />
