@@ -4,6 +4,12 @@
 
 ## I'm a Freelance Programmer, Developer and Open Source Contributor!
 
+<a href="https://www.buymeacoffee.com/pandyaved98"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
+
+<br />
+<br />
+<br />
+
 - 🔭 I’m currently competing on Kaggle.
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Cloud Computing. (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
