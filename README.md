@@ -20,6 +20,11 @@
 
 <br />
 
+## 🏆 GitHub Trophies:
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a>
+
+
 ![GitHub followers](https://img.shields.io/github/followers/pandyaved98?label=GitHub%20Followers&logo=github&logoColor=%23181717&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/pandyaved98?logo=github&logoColor=%23181717&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/MrVedPandya1?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
@@ -103,4 +108,8 @@
 ## 🎉 Top Languages:
 
 [![Top Languages](https://github-readme-stats-sable-zeta.vercel.app/api/top-langs/?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
+<br />
 
+## 🔥 Ongoing Streaks on GitHub:
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyaved98&" alt="pandyaved98" />
