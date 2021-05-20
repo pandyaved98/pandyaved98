@@ -79,6 +79,13 @@
 
 <br />
 
+## ⚡ Recent GitHub Activity:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+
 ## ⚡ GitHub Stats:
 
 [![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
