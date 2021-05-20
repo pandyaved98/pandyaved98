@@ -75,4 +75,4 @@
 
 <br />
 
-[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98)](https://github.com/pandyaved98/github-readme-stats)
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats)
