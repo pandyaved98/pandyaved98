@@ -18,9 +18,7 @@
 [<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
 [<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="color:#181717" />](https://www.github.com/pandyaved98)
 [<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
-
 <br />
-
 ## Tools, Languages and Frameworks I know:
 
 ### Tools:
@@ -76,10 +74,12 @@
 <br />
 
 ## ⚡ GitHub Stats:
+
 [![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
 
 <br />
 
 ## 🎉 Top Languages:
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
 
