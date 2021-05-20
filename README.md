@@ -75,4 +75,11 @@
 
 <br />
 
-[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats)
+## ⚡ GitHub Stats:
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
+
+<br />
+
+## 🎉 Top Languages:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
+
