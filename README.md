@@ -64,3 +64,9 @@
 <img align="left" alt="PyTorch" height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" />
 <img align="left" alt="Apache Spark" height="32" width="32" src="https://simpleicons.org/icons/apachespark.svg" />
 <img align="left" alt="OpenCV" height="32" width="32" src="https://simpleicons.org/icons/opencv.svg" />
+
+<br />
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
