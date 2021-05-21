@@ -93,8 +93,8 @@
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/SangeetaMishra/Algorithms-in-Python/pull/1) in [SangeetaMishra/Algorithms-in-Python](https://github.com/SangeetaMishra/Algorithms-in-Python)
-2. 🎉 Merged PR [#2](https://github.com/pandyaved98/Bash_Woman_Community_Site/pull/2) in [pandyaved98/Bash_Woman_Community_Site](https://github.com/pandyaved98/Bash_Woman_Community_Site)
+1. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🗣 Commented on [#275](https://github.com/anuraghazra/github-readme-stats/issues/275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <br />
