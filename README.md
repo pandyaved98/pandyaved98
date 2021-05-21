@@ -101,7 +101,7 @@
 
 ## ⚡ GitHub Stats:
 
-[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=tokyonight)](https://github.com/pandyaved98/github-readme-stats)
+[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats)
 
 <br />
 
@@ -120,6 +120,6 @@
 
 ## 🔥 Ongoing Streaks on GitHub:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyaved98&theme=tokyonight" alt="pandyaved98" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyaved98&theme=dark" alt="pandyaved98" />
 
 <br />
