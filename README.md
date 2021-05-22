@@ -120,6 +120,6 @@
 
 ## 🔥 Ongoing Streaks on GitHub:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyaved98&theme=tokyonight" alt="pandyaved98" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyaved98&theme=dark" alt="pandyaved98" />
 
 <br />
