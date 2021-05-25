@@ -93,8 +93,8 @@
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#275](https://github.com/anuraghazra/github-readme-stats/issues/275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. ❗️ Opened issue [#1733](https://github.com/EddieHubCommunity/support/issues/1733) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 <br />
