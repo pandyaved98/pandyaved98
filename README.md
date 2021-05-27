@@ -28,54 +28,54 @@
 
 ## You can connect with me over:
 
-[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
-[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
-[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="color:#181717" />](https://www.github.com/pandyaved98)
-[<img align="left" height="32" width="32" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
+[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/twitter.png" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
+[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/linkedin.png" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
+[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://www.github.com/pandyaved98)
+[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
 ## Tools, Languages and Frameworks I know:
 
 ### Tools:
-<img align="left" alt="Visual Studio Code" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Jupyter Notebook" height="32" width="32" src="https://simpleicons.org/icons/jupyter.svg" />
-<img align="left" alt="Android Studio" height="32" width="32" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="PyCharm" height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg" />
-<img align="left" alt="Discord" height="32" width="32" src="https://simpleicons.org/icons/discord.svg" />
-<img align="left" alt="Slack" height="32" width="32" src="https://simpleicons.org/icons/slack.svg" />
-<img align="left" alt="Figma" height="32" width="32" src="https://simpleicons.org/icons/figma.svg" />
-<img align="left" alt="Blender" height="32" width="32" src="https://simpleicons.org/icons/blender.svg" />
-<img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
+<img align="left" alt="Visual Studio Code" height="32" width="32" src="https://img.icons8.com/fluent/72/visual-studio-code-2019.png" />
+<img align="left" alt="Jupyter Notebook" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
+<img align="left" alt="Android Studio" height="32" width="32" src="https://img.icons8.com/fluent/2x/android-os.png" />
+<img align="left" alt="PyCharm" height="32" width="32" src="https://img.icons8.com/color/2x/pycharm.png" />
+<img align="left" alt="Discord" height="32" width="32" src="https://img.icons8.com/color/2x/discord-logo.png" />
+<img align="left" alt="Slack" height="32" width="32" src="https://img.icons8.com/color/2x/slack-new.png" />
+<img align="left" alt="Figma" height="32" width="32" src="https://img.icons8.com/color/2x/figma.png" />
+<img align="left" alt="Blender" height="32" width="32" src="https://img.icons8.com/color/2x/blender-3d.png" />
+<img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
 <br />
 
 ### Languages I know:
-<img align="left" alt="C Language" height="32" width="32" src="https://simpleicons.org/icons/c.svg" />
-<img align="left" alt="C++ Language" height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="C Sharp" height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" />
-<img align="left" alt="Java" height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Python" height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="HTML" height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS" height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" alt="Bootstrap" height="32" width="32" src="https://simpleicons.org/icons/bootstrap.svg" />
-<img align="left" alt="JavaScript" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="MySQL" height="32" width="32" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="MongoDB" height="32" width="32" src="https://simpleicons.org/icons/mongodb.svg" />
+<img align="left" alt="C Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" />
+<img align="left" alt="C++ Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
+<img align="left" alt="C Sharp" height="32" width="32" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
+<img align="left" alt="Java" height="32" width="32" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
+<img align="left" alt="Python" height="32" width="32" src="https://img.icons8.com/color/2x/python.png" />
+<img align="left" alt="HTML" height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
+<img align="left" alt="CSS" height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" />
+<img align="left" alt="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" />
+<img align="left" alt="JavaScript" height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" />
+<img align="left" alt="MySQL" height="32" width="32" src="https://img.icons8.com/fluent/2x/mysql-logo.png" />
+<img align="left" alt="MongoDB" height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
 
 <br />
 
 ### Frameworks I know:
 
-<img align="left" alt="Pandas" height="32" width="32" src="https://simpleicons.org/icons/pandas.svg" />
-<img align="left" alt="NumPy" height="32" width="32" src="https://simpleicons.org/icons/numpy.svg" />
-<img align="left" alt="SciPy" height="32" width="32" src="https://simpleicons.org/icons/scipy.svg" />
-<img align="left" alt="Anaconda" height="32" width="32" src="https://simpleicons.org/icons/anaconda.svg" />
-<img align="left" alt="Plotly" height="32" width="32" src="https://simpleicons.org/icons/plotly.svg" />
-<img align="left" alt="SciKit-Learn" height="32" width="32" src="https://simpleicons.org/icons/scikit-learn.svg" />
-<img align="left" alt="Keras" height="32" width="32" src="https://simpleicons.org/icons/keras.svg" />
-<img align="left" alt="TensorFlow" height="32" width="32" src="https://simpleicons.org/icons/tensorflow.svg" />
-<img align="left" alt="PyTorch" height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" />
-<img align="left" alt="Apache Spark" height="32" width="32" src="https://simpleicons.org/icons/apachespark.svg" />
-<img align="left" alt="OpenCV" height="32" width="32" src="https://simpleicons.org/icons/opencv.svg" />
+<img align="left" alt="Pandas" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" />
+<img align="left" alt="NumPy" height="32" width="32" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
+<img align="left" alt="SciPy" height="32" width="32" src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png" />
+<img align="left" alt="Anaconda" height="32" width="32" src="https://img.icons8.com/dusk/2x/anaconda.png" />
+<img align="left" alt="Plotly" height="32" width="32" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.9c7261a075.svg" />
+<img align="left" alt="SciKit-Learn" height="32" width="32" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
+<img align="left" alt="Keras" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" />
+<img align="left" alt="TensorFlow" height="32" width="32" src="https://img.icons8.com/color/2x/tensorflow.png" />
+<img align="left" alt="PyTorch" height="32" width="32" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" />
+<img align="left" alt="Apache Spark" height="32" width="32" src="https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />
+<img align="left" alt="OpenCV" height="32" width="32" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
 <br />
 
