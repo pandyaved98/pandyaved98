@@ -33,6 +33,8 @@
 [<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://www.github.com/pandyaved98)
 [<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
+<br />
+<br />
 ## Tools, Languages and Frameworks I know:
 
 ### Tools:
@@ -46,6 +48,8 @@
 <img align="left" alt="Blender" height="32" width="32" src="https://img.icons8.com/color/2x/blender-3d.png" />
 <img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
+<br />
+<br />
 <br />
 
 ### Languages I know:
@@ -62,6 +66,8 @@
 <img align="left" alt="MongoDB" height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
 
 <br />
+<br />
+<br />
 
 ### Frameworks I know:
 
@@ -77,6 +83,8 @@
 <img align="left" alt="Apache Spark" height="32" width="32" src="https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />
 <img align="left" alt="OpenCV" height="32" width="32" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
+<br />
+<br />
 <br />
 
 ## 📕 Latest Blog Posts:
