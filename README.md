@@ -4,7 +4,7 @@
 
 ## I'm a Freelance Programmer, Developer and Open Source Contributor!
 
-#### You can support me on by buying me a Coffee here:  
+#### You can support me on BuyMeCoffee by buying me a Coffee here:  
 <a href="https://www.buymeacoffee.com/pandyaved98"><img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
 <br />
 
