@@ -73,10 +73,10 @@
 
 <img align="left" alt="Pandas" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" />
 <img align="left" alt="NumPy" height="32" width="32" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
-<img align="left" alt="SciPy" height="32" width="32" src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png" />
+<img align="left" alt="SciPy" height="32" width="64" src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png" />
 <img align="left" alt="Anaconda" height="32" width="32" src="https://img.icons8.com/dusk/2x/anaconda.png" />
 <img align="left" alt="Plotly" height="32" width="32" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.9c7261a075.svg" />
-<img align="left" alt="SciKit-Learn" height="32" width="32" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
+<img align="left" alt="SciKit-Learn" height="32" width="64" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
 <img align="left" alt="Keras" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" />
 <img align="left" alt="TensorFlow" height="32" width="32" src="https://img.icons8.com/color/2x/tensorflow.png" />
 <img align="left" alt="PyTorch" height="32" width="32" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" />
