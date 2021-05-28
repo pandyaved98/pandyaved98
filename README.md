@@ -44,6 +44,9 @@
 <img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
 <br />
+<br />
+<br />
+
 
 ### Languages I know:
 <img align="left" alt="C Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" />
@@ -58,6 +61,8 @@
 <img align="left" alt="MySQL" height="32" width="32" src="https://img.icons8.com/fluent/2x/mysql-logo.png" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
 
+<br />
+<br />
 <br />
 
 ### Frameworks I know:
