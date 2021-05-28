@@ -1,4 +1,4 @@
-![Banner_2](https://user-images.githubusercontent.com/32775169/118861495-324a5880-b8fa-11eb-8351-5f2bb06ff9f7.png)
+![Banner_3](https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png)
 
 # Hi there 👋 This is Vedant - aka [Sabine Wren](https://pandyaved98.github.io/Vedant/)
 
