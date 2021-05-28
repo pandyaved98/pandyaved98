@@ -85,8 +85,8 @@
 
 ### ⚡ Recent GitHub Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1736](https://github.com/EddieHubCommunity/support/issues/1736) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#1733](https://github.com/EddieHubCommunity/support/issues/1733) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#1745](https://github.com/EddieHubCommunity/support/issues/1745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1736](https://github.com/EddieHubCommunity/support/issues/1736) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 
