@@ -4,10 +4,8 @@
 
 ## I'm a Freelance Programmer, Developer and Open Source Contributor!
 
-<a href="https://www.buymeacoffee.com/pandyaved98"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
-
-<br />
-<br />
+#### You can support me on by buying me a Coffee here:  
+<a href="https://www.buymeacoffee.com/pandyaved98"><img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
 <br />
 
 - 🔭 I’m currently competing on Kaggle.
@@ -18,9 +16,7 @@
 - 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
 
-<br />
-
-## 🏆 GitHub Trophies:
+#### 🏆 GitHub Trophies:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a>
 
@@ -33,8 +29,7 @@
 [<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://www.github.com/pandyaved98)
 [<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
-<br />
-<br />
+
 ## Tools, Languages and Frameworks I know:
 
 ### Tools:
@@ -48,8 +43,6 @@
 <img align="left" alt="Blender" height="32" width="32" src="https://img.icons8.com/color/2x/blender-3d.png" />
 <img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
-<br />
-<br />
 <br />
 
 ### Languages I know:
@@ -65,8 +58,6 @@
 <img align="left" alt="MySQL" height="32" width="32" src="https://img.icons8.com/fluent/2x/mysql-logo.png" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
 
-<br />
-<br />
 <br />
 
 ### Frameworks I know:
@@ -84,8 +75,6 @@
 <img align="left" alt="OpenCV" height="32" width="32" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
 <br />
-<br />
-<br />
 
 ## 📕 Latest Blog Posts:
 
@@ -93,38 +82,14 @@
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 
-## ⚡ Recent GitHub Activity:
-
+### ⚡ Recent GitHub Activity:
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1736](https://github.com/EddieHubCommunity/support/issues/1736) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. ❗️ Opened issue [#1733](https://github.com/EddieHubCommunity/support/issues/1733) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
-<br />
 
-## ⚡ GitHub Stats:
+### ⚡ GitHub Stats:
 
-[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats)
-
-<br />
-
-## 🎉 Top Languages:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## 🔥 Ongoing Streaks on GitHub:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=tokyonight)](https://git.io/streak-stats)
-
-<br />
+[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=dark)](https://git.io/streak-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
