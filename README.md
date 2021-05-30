@@ -97,4 +97,4 @@
 
 ### ⚡ GitHub Stats:
 
-[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=tokyonight)](https://git.io/streak-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
+[![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=dark)](https://git.io/streak-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
