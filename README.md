@@ -19,20 +19,20 @@
 - 💬 Ask me about Data and Tea!!
 - 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
-
-    <div align="center">       <h3>🏆 GitHub Trophies:</h3>
+    
+    <div align="center">       <h2>🏆 GitHub Trophies:</h2>
   
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
       
 ![Twitter Follow](https://img.shields.io/twitter/follow/MrVedPandya1?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
 </div>
 
-<h3 align="center"><b>You can connect with me over:</b></h1>
+<h2 align="center"><b>You can connect with me over:</b></h2>
 
-[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/twitter.png" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
-[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/linkedin.png" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
-[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://www.github.com/pandyaved98)
-[<img align="left" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
+[<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/twitter.png" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
+[<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/linkedin.png" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
+[<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://www.github.com/pandyaved98)
+[<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
 
 <h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
@@ -86,7 +86,7 @@
 
 <br />
 
-<h3 align="center"><b> 📕 Latest Blog Posts: </b></h3>
+<h2 align="center"><b> 📕 Latest Blog Posts: </b></h2>
 <div align="center">
   
 <!-- BLOG-POST-LIST:START -->
@@ -94,7 +94,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="center"><b> ⚡ Recent GitHub Activity: </b></h3>
+<h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1745](https://github.com/EddieHubCommunity/support/issues/1745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
@@ -102,6 +102,6 @@
 <!--END_SECTION:activity-->
 
 
-<h3 align="center"><b> ⚡ GitHub Stats: </b></h3>
+<h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
 
 [![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=tokyonight)](https://git.io/streak-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
