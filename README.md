@@ -1,11 +1,15 @@
-![Banner_3](https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png" /></p>
 
-# Hi there 👋 This is Vedant - aka [Sabine Wren](https://pandyaved98.github.io/Vedant/)
+<div align="center">
+  <h1><b>Hi there 👋 This is Vedant - aka <a href="https://pandyaved98.github.io/Vedant/">Sabine Wern</a></b></h1>
+</div>
 
-## I'm a Freelance Programmer, Developer and Open Source Contributor!
+<div align="center">
+  <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
+    <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
+    <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
+    </div>
 
-#### You can support me on BuyMeCoffee by buying me a Coffee here:  
-<a href="https://www.buymeacoffee.com/pandyaved98"><img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
 <br />
 
 - 🔭 I’m currently competing on Kaggle.
@@ -16,11 +20,12 @@
 - 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
 
-#### 🏆 GitHub Trophies:
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a>
-
+    <div align="center">       <h3>🏆 GitHub Trophies:</h3>
+  
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
+      
 ![Twitter Follow](https://img.shields.io/twitter/follow/MrVedPandya1?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
+</div>
 
 ## You can connect with me over:
 
