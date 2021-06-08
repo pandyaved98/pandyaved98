@@ -97,8 +97,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1796](https://github.com/EddieHubCommunity/support/issues/1796) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1736](https://github.com/EddieHubCommunity/support/issues/1736) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#3](https://github.com/pandyaved98/github-slideshow/pull/3) in [pandyaved98/github-slideshow](https://github.com/pandyaved98/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/pandyaved98/github-slideshow/pull/3) in [pandyaved98/github-slideshow](https://github.com/pandyaved98/github-slideshow)
 <!--END_SECTION:activity-->
 
 
