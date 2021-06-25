@@ -42,6 +42,8 @@
 <img align="left" alt="Jupyter Notebook" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
 <img align="left" alt="Android Studio" height="32" width="32" src="https://img.icons8.com/fluent/2x/android-os.png" />
 <img align="left" alt="PyCharm" height="32" width="32" src="https://img.icons8.com/color/2x/pycharm.png" />
+<img align="left" alt="Tableau" height="32" width="32" src="https://img.icons8.com/color/50/000000/tableau-software.png"/>
+<img align="left" alt="Power BI" height="32" width="32" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 <img align="left" alt="Discord" height="32" width="32" src="https://img.icons8.com/color/2x/discord-logo.png" />
 <img align="left" alt="Slack" height="32" width="32" src="https://img.icons8.com/color/2x/slack-new.png" />
 <img align="left" alt="Figma" height="32" width="32" src="https://img.icons8.com/color/2x/figma.png" />
