@@ -24,7 +24,6 @@
   
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
       
-![Twitter Follow](https://img.shields.io/twitter/follow/MrVedPandya1?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)
 </div>
 
 <h2 align="center"><b>You can connect with me over:</b></h2>
