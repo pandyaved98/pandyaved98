@@ -98,8 +98,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/pandyaved98/Vedant/pull/4) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
-2. 💪 Opened PR [#4](https://github.com/pandyaved98/Vedant/pull/4) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
+1. 🎉 Merged PR [#8](https://github.com/pandyaved98/Vedant/pull/8) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
+2. 💪 Opened PR [#8](https://github.com/pandyaved98/Vedant/pull/8) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
 <!--END_SECTION:activity-->
 
 
