@@ -98,8 +98,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Drashti30/website.html/pull/1) in [Drashti30/website.html](https://github.com/Drashti30/website.html)
-2. 🎉 Merged PR [#3](https://github.com/pandyaved98/github-slideshow/pull/3) in [pandyaved98/github-slideshow](https://github.com/pandyaved98/github-slideshow)
+1. 🎉 Merged PR [#4](https://github.com/pandyaved98/Vedant/pull/4) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
+2. 💪 Opened PR [#4](https://github.com/pandyaved98/Vedant/pull/4) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
 <!--END_SECTION:activity-->
 
 
