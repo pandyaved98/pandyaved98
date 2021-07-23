@@ -9,7 +9,10 @@
     <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
     <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
     </div>
+    <br />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat" alt="pandyaved98" /> </p>    
+    
 <br />
 
 - 🔭 I’m currently competing on Kaggle.
