@@ -101,8 +101,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Goheljay/my-Webfolio/issues/1) in [Goheljay/my-Webfolio](https://github.com/Goheljay/my-Webfolio)
-2. 🎉 Merged PR [#8](https://github.com/pandyaved98/Vedant/pull/8) in [pandyaved98/Vedant](https://github.com/pandyaved98/Vedant)
+1. 💪 Opened PR [#1](https://github.com/luxpmsoft/data_science_coding_test/pull/1) in [luxpmsoft/data_science_coding_test](https://github.com/luxpmsoft/data_science_coding_test)
+2. ❗️ Opened issue [#1](https://github.com/Goheljay/my-Webfolio/issues/1) in [Goheljay/my-Webfolio](https://github.com/Goheljay/my-Webfolio)
 <!--END_SECTION:activity-->
 
 
