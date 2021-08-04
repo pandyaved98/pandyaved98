@@ -101,8 +101,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/luxpmsoft/data_science_coding_test/pull/1) in [luxpmsoft/data_science_coding_test](https://github.com/luxpmsoft/data_science_coding_test)
-2. ❗️ Opened issue [#1](https://github.com/Goheljay/my-Webfolio/issues/1) in [Goheljay/my-Webfolio](https://github.com/Goheljay/my-Webfolio)
+1. ❗️ Opened issue [#60](https://github.com/SidHacksCommunity/support/issues/60) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+2. 💪 Opened PR [#1](https://github.com/luxpmsoft/data_science_coding_test/pull/1) in [luxpmsoft/data_science_coding_test](https://github.com/luxpmsoft/data_science_coding_test)
 <!--END_SECTION:activity-->
 
 
