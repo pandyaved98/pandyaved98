@@ -10,9 +10,13 @@
     <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
     </div>
     <br />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat" alt="pandyaved98" /> </p>      
-    
+<div align="center">
+  
+![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
+[![Code Quality Score](<https://www.code-inspector.com/project/26038/score/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
+[![Code Grade](<https://www.code-inspector.com/project/26038/status/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
+  
+</div>
 <br />
 
 - 🔭 I’m currently competing on Kaggle.
