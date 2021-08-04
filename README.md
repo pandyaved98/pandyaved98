@@ -11,7 +11,7 @@
     </div>
     <br />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat" alt="pandyaved98" /> </p>    
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat" alt="pandyaved98" /> </p>      
     
 <br />
 
