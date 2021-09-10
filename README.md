@@ -1,18 +1,17 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png" /></p>
 
 <div align="center">
-  <h1><b>Hi there 👋 This is Vedant - aka <a href="https://pandyaved98.github.io/Vedant/">Sabine Wern</a></b></h1>
+  <h1><b>Hi there 👋 This is Vedant - a.k.a. <a href="https://pandyaved98.github.io/Vedant/">Sabine Wern</a></b></h1>
 </div>
 
 <div align="center">
-  <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
+  <h2><b>I'm a Freelance Programmer, Developer, and Open Source Contributor!</b><h2>
     <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
     <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
     </div>
     <br />
 <div align="center">
-  
-![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
+
 [![Code Quality Score](<https://www.code-inspector.com/project/26038/score/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
 [![Code Grade](<https://www.code-inspector.com/project/26038/status/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
   
@@ -21,20 +20,20 @@
 
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
 - 🔭 I’m currently competing on Kaggle.
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Cloud Computing. (Almost Everything!) 👨‍💻
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
 - 🤔 I’m looking for help with Computer Vision.
-- 💬 Ask me about Data and Tea!!
-- 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
+- 💬 Ask me about Data and Tea!
+- 📫 Reach me at: [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
-    
-    <div align="center">       <h2>🏆 GitHub Trophies:</h2>
+
+<div align="center">       <h2>🏆 GitHub Trophies</h2>
   
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
-      
+
 </div>
 
-<h2 align="center"><b>You can connect with me over:</b></h2>
+<h2 align="center"><b>You can connect with me over</b></h2>
 
 [<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/twitter.png" style="color:#1DA1F2" />](https://www.twitter.com/MrVedPandya1)
 [<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/fluent/2x/linkedin.png" style="color:#0A66C2" />](https://www.linkedin.com/in/vedant-pandya-662122135/)
@@ -42,9 +41,9 @@
 [<img align="center" height="32" width="32" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
 
-<h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
+<h2 align="center"><b>Tools, languages, and Frameworks I know</b></h2>
 
-<h3 align="center"><b>Tools:</b></h3>
+<h3 align="center"><b>Tools</b></h3>
 <img align="left" alt="Visual Studio Code" height="32" width="32" src="https://img.icons8.com/fluent/72/visual-studio-code-2019.png" />
 <img align="left" alt="Jupyter Notebook" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
 <img align="left" alt="Android Studio" height="32" width="32" src="https://img.icons8.com/fluent/2x/android-os.png" />
@@ -61,8 +60,7 @@
 <br />
 <br />
 
-
-<h3 align="center"><b>Languages I know:</b></h3>
+<h3 align="center"><b>Languages I know</b></h3>
 <img align="left" alt="C Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" />
 <img align="left" alt="C++ Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
 <img align="left" alt="C Sharp" height="32" width="32" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
@@ -79,7 +77,7 @@
 <br />
 <br />
 
-<h3 align="center"><b>Frameworks I know:</b></h3>
+<h3 align="center"><b>Frameworks I know</b></h3>
 
 <img align="left" alt="Pandas" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" />
 <img align="left" alt="NumPy" height="32" width="32" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
@@ -95,15 +93,14 @@
 
 <br />
 
-<h2 align="center"><b> 📕 Latest Blog Posts: </b></h2>
+<h2 align="center"><b> 📕 Latest Blog Posts </b></h2>
 <div align="center">
-  
+
 <!-- BLOG-POST-LIST:START -->
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- BLOG-POST-LIST:END -->
 
-
-<h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
+<h2 align="center"><b> ⚡ Recent GitHub Activity </b></h2>
     
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1797](https://github.com/vinta/awesome-python/pull/1797) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -111,7 +108,7 @@
 <!--END_SECTION:activity-->
 
 
-<h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
+<h2 align="center"><b> ⚡ GitHub Stats </b></h2>
     
 [![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=dark)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
     </div>
