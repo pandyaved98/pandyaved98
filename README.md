@@ -21,7 +21,7 @@
 
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
 - 🔭 I’m currently competing on Kaggle.
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Cloud Computing. (Almost Everything!) 👨‍💻
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
 - 🤔 I’m looking for help with Computer Vision.
 - 💬 Ask me about Data and Tea!!
@@ -103,18 +103,13 @@
 <!-- BLOG-POST-LIST:START -->
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- BLOG-POST-LIST:END -->
-
-
-
+ 
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
-
-
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1797](https://github.com/vinta/awesome-python/pull/1797) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
 2. ❗️ Opened issue [#60](https://github.com/SidHacksCommunity/support/issues/60) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
 <!--END_SECTION:activity-->
-
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
     
