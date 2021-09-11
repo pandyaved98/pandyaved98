@@ -103,8 +103,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
-    
+
+
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1797](https://github.com/vinta/awesome-python/pull/1797) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
 2. ❗️ Opened issue [#60](https://github.com/SidHacksCommunity/support/issues/60) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
