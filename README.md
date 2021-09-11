@@ -1,9 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png" /></p>
-
 <div align="center">
   <h1><b>Hi there 👋 This is Vedant - aka <a href="https://pandyaved98.github.io/Vedant/">Sabine Wern</a></b></h1>
 </div>
-
 <div align="center">
   <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
     <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
