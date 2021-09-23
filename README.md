@@ -105,8 +105,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2489](https://github.com/EddieHubCommunity/support/issues/2489) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#1797](https://github.com/vinta/awesome-python/pull/1797) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+1. 💪 Opened PR [#588](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/588) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#2489](https://github.com/EddieHubCommunity/support/issues/2489) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
