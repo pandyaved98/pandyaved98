@@ -105,8 +105,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#588](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/588) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#2489](https://github.com/EddieHubCommunity/support/issues/2489) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#193](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/193) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+2. 💪 Opened PR [#588](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/588) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
