@@ -107,8 +107,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/193) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-2. 💪 Opened PR [#588](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/588) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#1](https://github.com/devilwhocodeshere/Python_Hacks/issues/1) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
+2. ❌ Closed PR [#1](https://github.com/devilwhocodeshere/Python_Hacks/pull/1) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
