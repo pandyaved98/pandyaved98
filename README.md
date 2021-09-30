@@ -15,6 +15,9 @@
 [![Code Grade](<https://www.code-inspector.com/project/26038/status/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
 [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sabinewern)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pandyaved98)
+<br />
+[![ForTheBadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![ForTheBadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
   
 </div>
 <br />
