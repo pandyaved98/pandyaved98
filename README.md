@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/devilwhocodeshere/Python_Hacks/pull/3) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
-2. 🗣 Commented on [#1](https://github.com/devilwhocodeshere/Python_Hacks/issues/1) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
+1. 💪 Opened PR [#4](https://github.com/devilwhocodeshere/Python_Hacks/pull/4) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
+2. 💪 Opened PR [#3](https://github.com/devilwhocodeshere/Python_Hacks/pull/3) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
