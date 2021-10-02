@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/devilwhocodeshere/Python_Hacks/pull/4) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
-2. 💪 Opened PR [#3](https://github.com/devilwhocodeshere/Python_Hacks/pull/3) in [devilwhocodeshere/Python_Hacks](https://github.com/devilwhocodeshere/Python_Hacks)
+1. 🗣 Commented on [#185](https://github.com/DevSnowflake/hacktoberfest-2021/issues/185) in [DevSnowflake/hacktoberfest-2021](https://github.com/DevSnowflake/hacktoberfest-2021)
+2. 🗣 Commented on [#206](https://github.com/DevSnowflake/hacktoberfest-2021/issues/206) in [DevSnowflake/hacktoberfest-2021](https://github.com/DevSnowflake/hacktoberfest-2021)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
