@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/anon-28/HacktoberFest/pull/15) in [anon-28/HacktoberFest](https://github.com/anon-28/HacktoberFest)
-2. 💪 Opened PR [#56](https://github.com/hanshulll/Hacktoberfest2021/pull/56) in [hanshulll/Hacktoberfest2021](https://github.com/hanshulll/Hacktoberfest2021)
+1. 🗣 Commented on [#393](https://github.com/fineanmol/Hacktoberfest2k21/issues/393) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
+2. 💪 Opened PR [#393](https://github.com/fineanmol/Hacktoberfest2k21/pull/393) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
