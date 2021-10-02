@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/DevSnowflake/hacktoberfest-2021/issues/185) in [DevSnowflake/hacktoberfest-2021](https://github.com/DevSnowflake/hacktoberfest-2021)
-2. 🗣 Commented on [#206](https://github.com/DevSnowflake/hacktoberfest-2021/issues/206) in [DevSnowflake/hacktoberfest-2021](https://github.com/DevSnowflake/hacktoberfest-2021)
+1. 💪 Opened PR [#15](https://github.com/anon-28/HacktoberFest/pull/15) in [anon-28/HacktoberFest](https://github.com/anon-28/HacktoberFest)
+2. 💪 Opened PR [#56](https://github.com/hanshulll/Hacktoberfest2021/pull/56) in [hanshulll/Hacktoberfest2021](https://github.com/hanshulll/Hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
