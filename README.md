@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CodeFlow201/Team-6/issues/1) in [CodeFlow201/Team-6](https://github.com/CodeFlow201/Team-6)
-2. 💪 Opened PR [#406](https://github.com/fineanmol/Hacktoberfest2k21/pull/406) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
+1. ❗️ Opened issue [#3](https://github.com/pandyaved98/EventO/issues/3) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
+2. ❗️ Opened issue [#2](https://github.com/pandyaved98/EventO/issues/2) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
