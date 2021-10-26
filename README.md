@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#608](https://github.com/EddieHubCommunity/LinkFree/pull/608) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#3](https://github.com/pandyaved98/EventO/issues/3) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
+1. 🎉 Merged PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
+2. 💪 Opened PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
