@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/pandyaved98/EventO/issues/3) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
-2. ❗️ Opened issue [#2](https://github.com/pandyaved98/EventO/issues/2) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
+1. 💪 Opened PR [#608](https://github.com/EddieHubCommunity/LinkFree/pull/608) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#3](https://github.com/pandyaved98/EventO/issues/3) in [pandyaved98/EventO](https://github.com/pandyaved98/EventO)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
