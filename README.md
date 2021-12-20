@@ -4,15 +4,13 @@
 </div>
 <div align="center">
   <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
-    <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
     <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
     </div>
     <br />
+
 <div align="center">
   
 ![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
-[![Code Quality Score](<https://www.code-inspector.com/project/26038/score/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
-[![Code Grade](<https://www.code-inspector.com/project/26038/status/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
 [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sabinewern)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pandyaved98)
 <br />
@@ -23,6 +21,7 @@
 <br />
 
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
+- 🤓 Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/)
 - 🔭 I’m currently competing on Kaggle.
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
