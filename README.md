@@ -45,9 +45,9 @@
 [<img align="center" height="48" width="48" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/_sabine_wern_)
 <br />
   </div>
-  <div align="center">
-<h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
 
+<div align="center">
+<h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
 <h3 align="center"><b>Tools:</b></h3>
 <img alt="Visual Studio Code" height="48" width="48" src="https://img.icons8.com/fluent/72/visual-studio-code-2019.png" />
 <img alt="Jupyter Notebook" height="48" width="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
@@ -89,12 +89,12 @@
 <img alt="NumPy" height="48" width="48" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 <img alt="SciPy" height="48" width="60" src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png" />
 <img alt="Anaconda" height="48" width="48" src="https://img.icons8.com/dusk/2x/anaconda.png" />
-<img alt="Plotly" height="48" width="48" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.9c7261a075.svg" />
+<img alt="Plotly" height="48" width="48" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg" />
 <img alt="SciKit-Learn" height="48" width="74" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
 <img alt="Keras" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" />
 <img alt="TensorFlow" height="48" width="48" src="https://img.icons8.com/color/2x/tensorflow.png" />
-<img alt="PyTorch" height="48" width="48" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" />
-<img alt="Apache Spark" height="48" width="48" src="https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />
+<img alt="PyTorch" height="48" width="48" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.1c19d88dac.svg" />
+<img alt="Apache Spark" height="48" width="48" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.7899e844c8.svg" />
 <img alt="OpenCV" height="48" width="48" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
 <br />
