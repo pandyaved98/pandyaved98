@@ -109,8 +109,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
-2. 💪 Opened PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
+1. 🎉 Merged PR [#3](https://github.com/pandyaved98/pandyaved98/pull/3) in [pandyaved98/pandyaved98](https://github.com/pandyaved98/pandyaved98)
+2. 💪 Opened PR [#3](https://github.com/pandyaved98/pandyaved98/pull/3) in [pandyaved98/pandyaved98](https://github.com/pandyaved98/pandyaved98)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
