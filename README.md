@@ -1,14 +1,18 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png" /></p>
 <div align="center">
-  <h1><b>Hi there, 👋 This is Vedant - aka <a href="https://www.github.com/pandyaved98">Sabine Wern</a></b></h1>
+  <h1><b>Hi there 👋 This is Vedant - a.k.a. <a href="https://pandyaved98.github.io/Vedant/">Sabine Wern</a></b></h1>
 </div>
 <div align="center">
-  <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
+  <h2><b>I'm a Freelance Programmer, Developer, and Open Source Contributor!</b><h2>
+    <h2 align="center"><b>You can support me on BuyMeCoffee by buying me a Coffee here:</b></h2>
     <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
     </div>
     <br />
 
 <div align="center">
+
+[![Code Quality Score](<https://www.code-inspector.com/project/26038/score/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
+[![Code Grade](<https://www.code-inspector.com/project/26038/status/svg>)](<https://frontend.code-inspector.com/public/project/26038/pandyaved98/dashboard>)
   
 ![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
 [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sabinewern)
@@ -26,14 +30,14 @@
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
 - 🤔 I’m looking for help with Computer Vision.
-- 💬 Ask me about Data and Tea!!
-- 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
+- 💬 Ask me about Data and Tea!
+- 📫 Reach me at: [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
-    
-    <div align="center">       <h2>🏆 GitHub Trophies:</h2>
+
+<div align="center">       <h2>🏆 GitHub Trophies</h2>
   
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
-      
+
 </div>
 
 <div align="center">
@@ -46,44 +50,43 @@
 <br />
   </div>
 
-<div align="center">
-<h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
-<h3 align="center"><b>Tools:</b></h3>
-<img alt="Visual Studio Code" height="48" width="48" src="https://img.icons8.com/fluent/72/visual-studio-code-2019.png" />
-<img alt="Jupyter Notebook" height="48" width="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
-<img alt="Android Studio" height="48" width="48" src="https://img.icons8.com/fluent/2x/android-os.png" />
-<img alt="PyCharm" height="48" width="48" src="https://img.icons8.com/color/2x/pycharm.png" />
-<img alt="Tableau" height="48" width="48" src="https://img.icons8.com/color/50/000000/tableau-software.png"/>
-<img alt="Power BI" height="48" width="48" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-<img alt="Discord" height="48" width="48" src="https://img.icons8.com/color/2x/discord-logo.png" />
-<img alt="Slack" height="48" width="48" src="https://img.icons8.com/color/2x/slack-new.png" />
-<img alt="Figma" height="48" width="48" src="https://img.icons8.com/color/2x/figma.png" />
-<img alt="Blender" height="48" width="48" src="https://img.icons8.com/color/2x/blender-3d.png" />
-<img alt="Microsoft SQL Server" height="48" width="48" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<h2 align="center"><b>Tools, languages, and Frameworks I know</b></h2>
+
+<h3 align="center"><b>Tools</b></h3>
+<img align="left" alt="Visual Studio Code" height="32" width="32" src="https://img.icons8.com/fluent/72/visual-studio-code-2019.png" />
+<img align="left" alt="Jupyter Notebook" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/jupyter_logo_icon_169452.png" />
+<img align="left" alt="Android Studio" height="32" width="32" src="https://img.icons8.com/fluent/2x/android-os.png" />
+<img align="left" alt="PyCharm" height="32" width="32" src="https://img.icons8.com/color/2x/pycharm.png" />
+<img align="left" alt="Tableau" height="32" width="32" src="https://img.icons8.com/color/50/000000/tableau-software.png"/>
+<img align="left" alt="Power BI" height="32" width="32" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img align="left" alt="Discord" height="32" width="32" src="https://img.icons8.com/color/2x/discord-logo.png" />
+<img align="left" alt="Slack" height="32" width="32" src="https://img.icons8.com/color/2x/slack-new.png" />
+<img align="left" alt="Figma" height="32" width="32" src="https://img.icons8.com/color/2x/figma.png" />
+<img align="left" alt="Blender" height="32" width="32" src="https://img.icons8.com/color/2x/blender-3d.png" />
+<img align="left" alt="Microsoft SQL Server" height="32" width="32" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
 <br />
 <br />
 <br />
 
-
-<h3 align="center"><b>Languages I know:</b></h3>
-<img alt="C Language" height="48" width="48" src="https://img.icons8.com/color/2x/c-programming.png" />
-<img alt="C++ Language" height="48" width="48" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
-<img alt="C Sharp" height="48" width="48" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
-<img alt="Java" height="48" width="48" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
-<img alt="Python" height="48" width="48" src="https://img.icons8.com/color/2x/python.png" />
-<img alt="HTML" height="48" width="48" src="https://img.icons8.com/color/2x/html-5.png" />
-<img alt="CSS" height="48" width="48" src="https://img.icons8.com/color/2x/css3.png" />
-<img alt="Bootstrap" height="48" width="48" src="https://img.icons8.com/color/2x/bootstrap.png" />
-<img alt="JavaScript" height="48" width="48" src="https://img.icons8.com/color/2x/javascript.png" />
-<img alt="MySQL" height="48" width="48" src="https://img.icons8.com/fluent/2x/mysql-logo.png" />
-<img alt="MongoDB" height="48" width="48" src="https://img.icons8.com/color/2x/mongodb.png" />
+<h3 align="center"><b>Languages I know</b></h3>
+<img align="left" alt="C Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" />
+<img align="left" alt="C++ Language" height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
+<img align="left" alt="C Sharp" height="32" width="32" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
+<img align="left" alt="Java" height="32" width="32" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
+<img align="left" alt="Python" height="32" width="32" src="https://img.icons8.com/color/2x/python.png" />
+<img align="left" alt="HTML" height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
+<img align="left" alt="CSS" height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" />
+<img align="left" alt="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" />
+<img align="left" alt="JavaScript" height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" />
+<img align="left" alt="MySQL" height="32" width="32" src="https://img.icons8.com/fluent/2x/mysql-logo.png" />
+<img align="left" alt="MongoDB" height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
 
 <br />
 <br />
 <br />
 
-<h3 align="center"><b>Frameworks I know:</b></h3>
+<h3 align="center"><b>Frameworks I know</b></h3>
 
 <img alt="Pandas" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" />
 <img alt="NumPy" height="48" width="48" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
@@ -98,22 +101,23 @@
 <img alt="OpenCV" height="48" width="48" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
 <br />
-</div>
-<h2 align="center"><b> 📕 Latest Blog Posts: </b></h2>
+
+<h2 align="center"><b> 📕 Latest Blog Posts </b></h2>
 <div align="center">
-  
+
 <!-- BLOG-POST-LIST:START -->
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- BLOG-POST-LIST:END -->
- 
-<h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
+<h2 align="center"><b> ⚡ Recent GitHub Activity </b></h2>
+    
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
 2. 💪 Opened PR [#9](https://github.com/Bash-Woman-Community/website/pull/9) in [Bash-Woman-Community/website](https://github.com/Bash-Woman-Community/website)
 <!--END_SECTION:activity-->
 
-<h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
+<h2 align="center"><b> ⚡ GitHub Stats </b></h2>
+
     
 [![Vedant's GitHub stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=pandyaved98&theme=dark)](https://github.com/pandyaved98/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyaved98&theme=dark)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyaved98&show_icons=true&locale=en&layout=compact&theme=dark" alt="pandyaved98" /> 
     </div>
