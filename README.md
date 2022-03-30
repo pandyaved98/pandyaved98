@@ -110,8 +110,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/pandyaved98/pandyaved98/issues/2) in [pandyaved98/pandyaved98](https://github.com/pandyaved98/pandyaved98)
-2. ❗️ Closed issue [#2](https://github.com/pandyaved98/pandyaved98/issues/2) in [pandyaved98/pandyaved98](https://github.com/pandyaved98/pandyaved98)
+1. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#2](https://github.com/pandyaved98/pandyaved98/issues/2) in [pandyaved98/pandyaved98](https://github.com/pandyaved98/pandyaved98)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
