@@ -1,13 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/32775169/119956349-a356d380-bfbe-11eb-8831-59f46a2a9a14.png" /></p>
 <div align="center">
   <h1><b>Hi there, 👋 This is Vedant - aka <a href="https://www.github.com/pandyaved98">Sabine Wern</a></b></h1>
-</div>
-<div align="center">
   <h2><b>I'm a Freelance Programmer, Developer and Open Source Contributor!</b><h2>
-    <a align="center" href="https://www.buymeacoffee.com/pandyaved98"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pandyaved98" /></a>
-    </div>
+</div>
     <br />
-
 <div align="center">
   
 ![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
@@ -21,6 +17,7 @@
 <br />
 
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
+- OS Contributor at [GirsScript](https://www.girlscript.tech/home) | [EddieHub](https://www.eddiehub.org/) | [Hugging Face](https://huggingface.co/)
 - 🤓 Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/)
 - 🔭 I’m currently competing on Kaggle.
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
