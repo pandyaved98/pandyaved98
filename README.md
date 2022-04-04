@@ -108,7 +108,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#86](https://github.com/huggingface/course/issues/86) in [huggingface/course](https://github.com/huggingface/course)
-2. 🗣 Commented on [#87](https://github.com/huggingface/course/issues/87) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#86](https://github.com/huggingface/course/issues/86) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
