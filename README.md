@@ -107,8 +107,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#232](https://github.com/huggingface/course/pull/232) in [huggingface/course](https://github.com/huggingface/course)
-2. ❗️ Opened issue [#271](https://github.com/EddieHubCommunity/api/issues/271) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#232](https://github.com/huggingface/course/issues/232) in [huggingface/course](https://github.com/huggingface/course)
+2. 💪 Opened PR [#232](https://github.com/huggingface/course/pull/232) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
