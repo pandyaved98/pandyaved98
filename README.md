@@ -8,6 +8,7 @@
   
 ![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
 [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sabinewern)
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vedantpandya)](https://peerlist.io/vedantpandya)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pandyaved98)
 <br />
 [![ForTheBadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
