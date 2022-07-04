@@ -107,8 +107,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#257](https://github.com/huggingface/course/pull/257) in [huggingface/course](https://github.com/huggingface/course)
-2. ❗️ Opened issue [#418](https://github.com/Devs-Dungeon/support/issues/418) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+1. 🗣 Commented on [#1362](https://github.com/HarshCasper/Rotten-Scripts/issues/1362) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+2. 💪 Opened PR [#257](https://github.com/huggingface/course/pull/257) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
