@@ -108,8 +108,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1362](https://github.com/HarshCasper/Rotten-Scripts/issues/1362) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-2. 💪 Opened PR [#257](https://github.com/huggingface/course/pull/257) in [huggingface/course](https://github.com/huggingface/course)
+1. ❗️ Opened issue [#275](https://github.com/huggingface/course/issues/275) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#1362](https://github.com/HarshCasper/Rotten-Scripts/issues/1362) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
