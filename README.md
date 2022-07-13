@@ -108,8 +108,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/HackmaFest/HackmaFest-Website/issues/12) in [HackmaFest/HackmaFest-Website](https://github.com/HackmaFest/HackmaFest-Website)
-2. ❗️ Opened issue [#275](https://github.com/huggingface/course/issues/275) in [huggingface/course](https://github.com/huggingface/course)
+1. 💪 Opened PR [#1096](https://github.com/iterative/cml/pull/1096) in [iterative/cml](https://github.com/iterative/cml)
+2. ❗️ Opened issue [#12](https://github.com/HackmaFest/HackmaFest-Website/issues/12) in [HackmaFest/HackmaFest-Website](https://github.com/HackmaFest/HackmaFest-Website)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
