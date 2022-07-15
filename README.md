@@ -17,6 +17,8 @@
 </div>
 <br />
 
+<div align="left">
+
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
 - OS Contributor at [Google Open Source](https://opensource.google/) | [GirsScript](https://www.girlscript.tech/home) | [EddieHub](https://www.eddiehub.org/) | [Hugging Face](https://huggingface.co/)
 - 🤓 Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/)
@@ -27,8 +29,11 @@
 - 💬 Ask me about Data and Tea!!
 - 📫 Reach me at [pandyaved1999@gmail.com](mailto:pandyaved1999@gmail.com)
 - 😄 Fun fact: I never have a cup of coffee while Programming. Will society accept me?? 🤣🤣🤣
-    
-    <div align="center">       <h2>🏆 GitHub Trophies:</h2>
+
+</div>
+
+<div align="center">
+<h2>🏆 GitHub Trophies:</h2>
   
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pandyaved98" alt="pandyaved98" /></a></p>
       
