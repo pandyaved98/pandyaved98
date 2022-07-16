@@ -113,8 +113,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/pull/17) in [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
-2. 💪 Opened PR [#1096](https://github.com/iterative/cml/pull/1096) in [iterative/cml](https://github.com/iterative/cml)
+1. 🗣 Commented on [#1096](https://github.com/iterative/cml/issues/1096) in [iterative/cml](https://github.com/iterative/cml)
+2. 💪 Opened PR [#17](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/pull/17) in [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
