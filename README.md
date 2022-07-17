@@ -113,8 +113,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1096](https://github.com/iterative/cml/issues/1096) in [iterative/cml](https://github.com/iterative/cml)
-2. 💪 Opened PR [#17](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/pull/17) in [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+1. 🎉 Merged PR [#2](https://github.com/pandyaved98/WebMyFolio/pull/2) in [pandyaved98/WebMyFolio](https://github.com/pandyaved98/WebMyFolio)
+2. 💪 Opened PR [#2](https://github.com/pandyaved98/WebMyFolio/pull/2) in [pandyaved98/WebMyFolio](https://github.com/pandyaved98/WebMyFolio)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
