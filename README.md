@@ -113,8 +113,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/thisbejim/Pyrebase/issues/423) in [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase)
-2. ❗️ Opened issue [#423](https://github.com/thisbejim/Pyrebase/issues/423) in [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase)
+1. 🗣 Commented on [#12996](https://github.com/ContinuumIO/anaconda-issues/issues/12996) in [ContinuumIO/anaconda-issues](https://github.com/ContinuumIO/anaconda-issues)
+2. 🗣 Commented on [#423](https://github.com/thisbejim/Pyrebase/issues/423) in [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
