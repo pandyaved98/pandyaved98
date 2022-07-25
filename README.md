@@ -114,8 +114,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12996](https://github.com/ContinuumIO/anaconda-issues/issues/12996) in [ContinuumIO/anaconda-issues](https://github.com/ContinuumIO/anaconda-issues)
-2. 🗣 Commented on [#423](https://github.com/thisbejim/Pyrebase/issues/423) in [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase)
+1. 💪 Opened PR [#124](https://github.com/gdg-x/aura-admin/pull/124) in [gdg-x/aura-admin](https://github.com/gdg-x/aura-admin)
+2. 💪 Opened PR [#129](https://github.com/gdg-x/aura/pull/129) in [gdg-x/aura](https://github.com/gdg-x/aura)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
