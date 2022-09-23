@@ -21,7 +21,7 @@
 
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
 - ExploreML with CrowdSource Influencer [Google CrowdSource](https://crowdsource.google.com/about/)
-- OS Contributor at [Google Open Source](https://opensource.google/) | [GirsScript](https://www.girlscript.tech/home) | [EddieHub](https://www.eddiehub.org/) | [Hugging Face](https://huggingface.co/)
+- OS Contributor at [Google Open Source](https://opensource.google/) | [GirlScript](https://www.girlscript.tech/home) | [EddieHub](https://www.eddiehub.org/) | [Hugging Face](https://huggingface.co/)
 - 🤓 Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/)
 - 🔭 I’m currently competing on Kaggle.
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
