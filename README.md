@@ -115,8 +115,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#745](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/issues/745) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
-2. 💪 Opened PR [#124](https://github.com/gdg-x/aura-admin/pull/124) in [gdg-x/aura-admin](https://github.com/gdg-x/aura-admin)
+1. 🗣 Commented on [#353](https://github.com/theutpal01/HacktoberFest2022/issues/353) in [theutpal01/HacktoberFest2022](https://github.com/theutpal01/HacktoberFest2022)
+2. 🗣 Commented on [#745](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/issues/745) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
