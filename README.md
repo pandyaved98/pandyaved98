@@ -22,7 +22,7 @@
 - [Portfolio Website](https://pandyaved98.github.io/Vedant)
 - ExploreML with CrowdSource Influencer & Facilitator [Google CrowdSource](https://crowdsource.google.com/about/)
 - OS Contributor at [Google Open Source](https://opensource.google/) | [GirlScript](https://www.girlscript.tech/home) | [EddieHub](https://www.eddiehub.org/) | [Hugging Face](https://huggingface.co/)
-- 🤓 Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/)
+- 🤓 Was a Lead Data Scientist @ [Alchemy Technologies](https://alchemytech.ca/) | Technical Specialist @ [Tata STRIVE](https://www.tatastrive.com) | ExploreML Facilitator at Google @ [AI Research](https://rsvp.withgoogle.com/events/explore-ml-with-crowdsource-workshops-on-air/facilitators)
 - 🔭 I’m currently competing on Kaggle.
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, and Cloud Computing (Almost Everything!) 👨‍💻
 - 👯 I’m looking to collaborate on any Machine Learning and Artificial Intelligence Project.
