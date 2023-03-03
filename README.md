@@ -97,8 +97,8 @@
 <img alt="SciKit-Learn" height="48" width="74" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
 <img alt="Keras" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" />
 <img alt="TensorFlow" height="48" width="48" src="https://img.icons8.com/color/2x/tensorflow.png" />
-<img alt="PyTorch" height="48" width="72" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
-<img alt="Apache Spark" height="48" width="48" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.7899e844c8.svg" />
+<img alt="PyTorch" height="48" width="48" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img alt="Apache Spark" height="48" width="48" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />
 <img alt="OpenCV" height="48" width="48" src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png" />
 
 <br />
