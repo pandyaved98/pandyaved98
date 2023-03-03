@@ -93,7 +93,7 @@
 <img alt="NumPy" height="48" width="48" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 <img alt="SciPy" height="48" width="60" src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png" />
 <img alt="Anaconda" height="48" width="48" src="https://img.icons8.com/dusk/2x/anaconda.png" />
-<img alt="Plotly" height="48" width="48" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg" />
+<img alt="Plotly" height="48" width="72" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" />
 <img alt="SciKit-Learn" height="48" width="74" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" />
 <img alt="Keras" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" />
 <img alt="TensorFlow" height="48" width="48" src="https://img.icons8.com/color/2x/tensorflow.png" />
