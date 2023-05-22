@@ -5,7 +5,8 @@
 </div>
     <br />
 <div align="center">
-  
+<a href="https://www.buymeacoffee.com/pandyaved98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" /></a>
+
 ![Profile Views](<https://komarev.com/ghpvc/?username=pandyaved98&label=Profile%20views&color=0e75b6&style=flat>)
 [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sabinewern)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/vedantpandya)](https://peerlist.io/vedantpandya)
