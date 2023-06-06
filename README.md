@@ -117,7 +117,7 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#353](https://github.com/theutpal01/HacktoberFest2022/issues/353) in [theutpal01/HacktoberFest2022](https://github.com/theutpal01/HacktoberFest2022)
+1. 🗣 Commented on [#250](https://github.com/GoogleCloudPlatform/asl-ml-immersion/issues/250) in [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion)
 2. 🗣 Commented on [#745](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/issues/745) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
 <!--END_SECTION:activity-->
 
