@@ -117,7 +117,7 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nicknochnack/Langchain-Crash-Course/issues/3#issuecomment-1578843084) in [nicknochnack/Langchain-Crash-Course](https://github.com/nicknochnack/Langchain-Crash-Course)
+1. 🗣 Commented on [#258](https://github.com/ml-explore/mlx/issues/258#issuecomment-1868044179) in [ml-explore/mlx](https://github.com/ml-explore/mlx)
 2. 🗣 Commented on [#250](https://github.com/GoogleCloudPlatform/asl-ml-immersion/issues/250#issuecomment-1578698232) in [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion)
 <!--END_SECTION:activity-->
 
