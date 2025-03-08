@@ -117,8 +117,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#258](https://github.com/ml-explore/mlx/issues/258#issuecomment-1868044179) in [ml-explore/mlx](https://github.com/ml-explore/mlx)
-2. 🗣 Commented on [#250](https://github.com/GoogleCloudPlatform/asl-ml-immersion/issues/250#issuecomment-1578698232) in [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion)
+1. 🎉 Merged PR [#1](https://github.com/pandyaved98/transformers_from_scratch/pull/1) in [pandyaved98/transformers_from_scratch](https://github.com/pandyaved98/transformers_from_scratch)
+2. 💪 Opened PR [#1](https://github.com/pandyaved98/transformers_from_scratch/pull/1) in [pandyaved98/transformers_from_scratch](https://github.com/pandyaved98/transformers_from_scratch)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
