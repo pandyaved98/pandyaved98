@@ -117,8 +117,8 @@
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/pandyaved98/transformers_from_scratch/pull/1) in [pandyaved98/transformers_from_scratch](https://github.com/pandyaved98/transformers_from_scratch)
-2. 💪 Opened PR [#1](https://github.com/pandyaved98/transformers_from_scratch/pull/1) in [pandyaved98/transformers_from_scratch](https://github.com/pandyaved98/transformers_from_scratch)
+1. 💪 Opened PR [#82](https://github.com/patchy631/ai-engineering-hub/pull/82) in [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+2. 🎉 Merged PR [#1](https://github.com/pandyaved98/transformers_from_scratch/pull/1) in [pandyaved98/transformers_from_scratch](https://github.com/pandyaved98/transformers_from_scratch)
 <!--END_SECTION:activity-->
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
