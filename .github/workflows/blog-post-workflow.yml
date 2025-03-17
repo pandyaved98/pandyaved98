@@ -1,16 +1,26 @@
-name: Latest blog post workflow
+name: Latest blog posts workflow
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      
+      # First RSS feed (original)
+      - name: Update README with Hashnode blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://sabinewern.hashnode.dev/rss.xml"
+          comment_tag_name: "PRACTICAL_BLOG_LIST"
+          
+      # Second RSS feed (new)
+      - name: Update README with second blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://airesearch.hashnode.dev/rss.xml"
+          comment_tag_name: "RESEARCH_BLOG_LIST"
