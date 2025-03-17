@@ -107,12 +107,15 @@
 <h2 align="center"><b> 📕 Latest Blog Posts: </b></h2>
 <div align="center">
   
-<!-- BLOG-POST-LIST:START -->
+<!-- PRACTICAL_BLOG_LIST:START -->
 - [Hand Written Digit Recognition Project](https://sabinewern.hashnode.dev/hand-written-digit-recognition-project)
 - [Kaggle Competition - Titanic Survival Prediction](https://sabinewern.hashnode.dev/kaggle-competition-titanic-survival-prediction)
 - [Chat Bot Using Microsoft&#39;s DialoGPT Model](https://sabinewern.hashnode.dev/chat-bot-using-microsofts-dialogpt-model)
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
-<!-- BLOG-POST-LIST:END -->
+<!-- PRACTICAL_BLOG_LIST:END -->
+
+<!-- RESEARCH_BLOG_LIST:START -->
+<!-- RESEARCH_BLOG_LIST:END -->
  
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
 
