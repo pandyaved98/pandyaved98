@@ -115,6 +115,8 @@
 <!-- PRACTICAL_BLOG_LIST:END -->
 
 <!-- RESEARCH_BLOG_LIST:START -->
+- [Unlocking the Power of Hybrid RAG Systems: A Deep Dive into LlamaCloud&#39;s City Query Solution](https://airesearch.hashnode.dev/unlocking-the-power-of-hybrid-rag-systems-a-deep-dive-into-llamaclouds-city-query-solution)
+- [Gemma 3: Advancing Open-Source Multimodal AI with Scalable Training and Efficient Architectures](https://airesearch.hashnode.dev/gemma-3-advancing-open-source-multimodal-ai-with-scalable-training-and-efficient-architectures)
 <!-- RESEARCH_BLOG_LIST:END -->
  
 <h2 align="center"><b> ⚡ Recent GitHub Activity: </b></h2>
