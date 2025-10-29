@@ -106,6 +106,8 @@
 </div>
 <h2 align="center"><b> 📕 Latest Blog Posts: </b></h2>
 <div align="center">
+
+<h3 align="center"><b>Practical Blogs:</b></h3>
   
 <!-- PRACTICAL_BLOG_LIST:START -->
 - [Hand Written Digit Recognition Project](https://sabinewern.hashnode.dev/hand-written-digit-recognition-project)
@@ -113,6 +115,8 @@
 - [Chat Bot Using Microsoft&#39;s DialoGPT Model](https://sabinewern.hashnode.dev/chat-bot-using-microsofts-dialogpt-model)
 - [Data Visualisation: An attractive way to present data!](https://sabinewern.hashnode.dev/data-visualisation-an-attractive-way-to-present-data)
 <!-- PRACTICAL_BLOG_LIST:END -->
+
+<h3 align="center"><b>AI Research Blogs:</b></h3>
 
 <!-- RESEARCH_BLOG_LIST:START -->
 - [Unlocking the Power of Hybrid RAG Systems: A Deep Dive into LlamaCloud&#39;s City Query Solution](https://airesearch.hashnode.dev/unlocking-the-power-of-hybrid-rag-systems-a-deep-dive-into-llamaclouds-city-query-solution)
