@@ -1,9 +1,10 @@
 name: Latest blog posts workflow
 on:
   schedule:
-    # Runs daily instead of hourly to avoid rate limiting
+    # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -17,14 +18,16 @@ jobs:
         with:
           feed_list: "https://sabinewern.hashnode.dev/rss.xml"
           comment_tag_name: "PRACTICAL_BLOG_LIST"
-          max_retry_count: 3
+          retry_count: 3  # Changed from max_retry_count
           retry_wait_time: 300
-          
+          user_agent: "Mozilla/5.0 (compatible; BlogPostBot/1.0)"
+      
       # Second RSS feed (new)
       - name: Update README with second blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://airesearch.hashnode.dev/rss.xml"
           comment_tag_name: "RESEARCH_BLOG_LIST"
-          max_retry_count: 3
+          retry_count: 3  # Changed from max_retry_count
           retry_wait_time: 300
+          user_agent: "Mozilla/5.0 (compatible; BlogPostBot/1.0)"
